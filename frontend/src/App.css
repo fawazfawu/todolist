@@ -1,0 +1,40 @@
+.app {
+    width: 500px;
+    padding: 10% 40% 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(203, 198, 198);
+    color: white;
+}
+.list{color: white;}
+
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.container {
+    width: 500px;
+}
+
+.input {
+    width: 300px;
+    height: 46px;
+    border: 1px solid;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.btn {
+    height: 50px;
+    width: 100px;
+    border: 1px solid;
+    vertical-align: middle;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.to-dos {
+    margin-top: 25px;
+    cursor: pointer;
+}
