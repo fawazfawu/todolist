@@ -7,7 +7,7 @@ const RunServer = require('./Database/connection');
 
 
 const app=express();
-const port=process.env.PORT;
+const port = process.env.PORT || 3000;
 
 // json: transmitting the data b/w  client and server
 app.use(express.json())
