@@ -1,5 +1,5 @@
 import React from 'react'
-import './app.css'
+import './App.css'
 import Header from './components/Header'
 import Addtodo from './components/Addtodo'
 import Todolist from './components/Todolist'
